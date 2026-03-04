@@ -7,7 +7,7 @@ const WhatsAppButton: React.FC = () => {
   const whatsappUrl = `https://wa.me/${phoneNumber}?text=${message}`;
   
   // Link placeholder para 99Food (geralmente redireciona para a busca da loja no app)
-  const ninetynineFoodUrl = "https://99app.com/99food/";
+  const ninetynineFoodUrl = "https://oia.99app.com/dlp9/jIr3c6?share_media=WHATSAPP";
 
   return (
     <div className="fixed bottom-6 right-6 z-[100] flex items-center gap-3">
