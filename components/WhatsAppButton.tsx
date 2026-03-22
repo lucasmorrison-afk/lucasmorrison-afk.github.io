@@ -4,7 +4,7 @@ import React from 'react';
 const WhatsAppButton: React.FC = () => {
   const phoneNumber = "5541995793446"; 
   const message = encodeURIComponent("Olá Doceline! Gostaria de saber mais sobre os cookies e brownies.");
-  const whatsappUrl = `https://wa.me/${phoneNumber}?text=${message}`;
+  const whatsappUrl = `https://wa.me/message/N6MYCEKSCH3JJ1`;
   
   // Link placeholder para 99Food (geralmente redireciona para a busca da loja no app)
   const ninetynineFoodUrl = "https://oia.99app.com/dlp9/jIr3c6?share_media=WHATSAPP";
